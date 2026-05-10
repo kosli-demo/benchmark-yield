@@ -1,1 +1,1 @@
-benchmark-yield 1777897754
+benchmark-yield 1778415335
